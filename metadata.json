@@ -1,0 +1,6 @@
+{
+  "name": "Samurai Paper Trading Arena",
+  "description": "Full-stack paper trading stock market simulation platform featuring Learn -> Predict -> Trade -> Review workflow, ₹10,00,000 virtual capital, atomic PostgreSQL trade execution, and real-time market analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
